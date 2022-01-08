@@ -1,0 +1,14 @@
+C:\imersao_logica\Media\Media\bin\Debug\netcoreapp3.1\Media.exe
+C:\imersao_logica\Media\Media\bin\Debug\netcoreapp3.1\Media.deps.json
+C:\imersao_logica\Media\Media\bin\Debug\netcoreapp3.1\Media.runtimeconfig.json
+C:\imersao_logica\Media\Media\bin\Debug\netcoreapp3.1\Media.runtimeconfig.dev.json
+C:\imersao_logica\Media\Media\bin\Debug\netcoreapp3.1\Media.dll
+C:\imersao_logica\Media\Media\bin\Debug\netcoreapp3.1\Media.pdb
+C:\imersao_logica\Media\Media\obj\Debug\netcoreapp3.1\Media.csproj.AssemblyReference.cache
+C:\imersao_logica\Media\Media\obj\Debug\netcoreapp3.1\Media.GeneratedMSBuildEditorConfig.editorconfig
+C:\imersao_logica\Media\Media\obj\Debug\netcoreapp3.1\Media.AssemblyInfoInputs.cache
+C:\imersao_logica\Media\Media\obj\Debug\netcoreapp3.1\Media.AssemblyInfo.cs
+C:\imersao_logica\Media\Media\obj\Debug\netcoreapp3.1\Media.csproj.CoreCompileInputs.cache
+C:\imersao_logica\Media\Media\obj\Debug\netcoreapp3.1\Media.dll
+C:\imersao_logica\Media\Media\obj\Debug\netcoreapp3.1\Media.pdb
+C:\imersao_logica\Media\Media\obj\Debug\netcoreapp3.1\Media.genruntimeconfig.cache
